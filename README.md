@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mahanthesh S and I'm an Engineering Student  , from bengaluru</h2>
+<h2 align="left">Hi 👋! My name is Mahanthesh S and I'm an Engineering student , from Bengaluru</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s"  />
 
 ###
 
