@@ -1,40 +1,106 @@
-<h2 align="left">Hi 👋!I'm Mahanthesh S , an Engineering graduate  from BMSIT Bengaluru</h2>
+<!-- Intro -->
+<h1 align="center">Hi 👋, I'm Mahanthesh S</h1>
+<h3 align="center">Web Developer | Cybersecurity Enthusiast | Java & Spring Boot Developer</h3>
 
-###
+<p align="center">
+  Passionate about building scalable applications, exploring cybersecurity, and solving real-world problems with clean and efficient code.
+  I enjoy backend development, AI-driven tools, and cloud technologies that enable modern software experiences.
+</p>
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s"  />
+---
 
-###
+## 🚀 Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
-###
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,gcp,figma,vscode,powerbi" />
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/msl170823?igsh=MXJpdDFreGdnb2I2aQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+### 🌐 Technical Skills
+- Data Structures & Algorithms  
+- Web Development  
+- Object-Oriented Programming (OOP)  
+- Problem Solving  
+- Teamwork & Leadership  
+
+---
+
+## 📌 Experience
+
+### **Web Development Intern — Mindset IT Solution, Bengaluru**  
+*Mar 2025 – Jun 2025*  
+- Built RESTful APIs and business logic using **Spring Boot**.  
+- Implemented **Hibernate ORM** for seamless DB integration.  
+- Optimized query performance and improved backend scalability.
+
+### **Cybersecurity Analyst Job Simulation — Tata Forage**  
+*Nov 2025*  
+- Hands-on IAM tasks aligned with enterprise cybersecurity frameworks.  
+- Collaborated on documentation & consulting communication.  
+
+---
+
+## 🧩 Projects
+
+### **💳 Banking System Web Application — Java, Spring Boot, SQL**
+- Secure banking system with REST APIs.  
+- Achieved **60% faster API response** using async processing & query tuning.  
+- Real-time updates with **WebSockets**.
+
+### **📊 Blinkit Dashboard — Power BI**
+- Built an interactive dashboard with filters & dynamic visuals.  
+- Integrated Power Query & DAX for efficient analytics.
+
+### **📮 M-ai-L — AI Email Agent (React + TypeScript + OpenAI)**
+- AI tool for tone-aware email replies using **OpenAI API**.  
+- Integrated **Gmail API OAuth** for secure automation.  
+- Full-stack deployment with **React + Express + PostgreSQL**.
+
+---
+
+## 🎓 Certifications
+- Google Vertex AI — Prompt Design  
+- Oracle Certified SQL Basics  
+- Tata Cybersecurity Analyst  
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:mahantheshs61@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
- <a href="mailto:mahnatheshs61@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
 
-  <a href="https://www.linkedin.com/in/mahanthesh-s-2604b42a2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-   <a href="https://mahi2708.github.io/Mahantesh-portfolio/" target="_blank">
-   <img 
-    src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="Portfolio badge" 
-  />
 
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-</div>
 
-###
+  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
+  </a>
+</p>
+
+📞 **Phone:** +91 7892568479  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Explore my repositories to see what I'm working on.*
