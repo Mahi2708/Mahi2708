@@ -73,9 +73,9 @@
 ## 📬 Contact Me
 
 <p align="left">
-<a href="mailto:mahantheshs61@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mahantheshs61%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  
+[![Email](https://img.shields.io/badge/Gmail-mahantheshs61%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahantheshs61@gmail.com)
+
 
 
   <a href="https://www.linkedin.com/in/mahanthesh-s-2604b42a2/" target="_blank">
