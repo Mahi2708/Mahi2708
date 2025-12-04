@@ -73,9 +73,10 @@
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="mailto:mahantheshs61@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+<a href="mailto:mahantheshs61@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mahantheshs61%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
   <a href="https://www.linkedin.com/in/mahanthesh-s-2604b42a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
