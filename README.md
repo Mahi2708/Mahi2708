@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Mahanthesh S</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast | Java & Spring Boot Developer</h3>
+<h3 align="center">Web Developer | Cybersecurity Enthusiast | Generative AI Enthusiast</h3>
 
 <p align="center">
   Passionate about building scalable applications, exploring cybersecurity, and solving real-world problems with clean and efficient code.
@@ -77,16 +77,18 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mahanthesh-s-2604b42a2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
+ 
 
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" height="40"/>
+  <a href="https://mahi2708.github.io/Mahantesh-portfolio/" target="_blank">
+   <img 
+    src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
+    height="35" 
+    alt="Portfolio badge" 
+  />
   </a>
 </p>
 
@@ -97,10 +99,13 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi2708&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi2708&theme=tokyonight" height="165" />
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi2708&layout=compact&theme=tokyonight" height="165" />
+</p>
 ---
 
 ⭐ *Thanks for visiting my profile! Explore my repositories to see what I'm working on.*
