@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahanthesh S and I'm an Engineering student , from Bengaluru</h2>
+<h2 align="left">Hi 👋!I'm Mahanthesh S , an Engineering graduate  from BMSIT Bengaluru</h2>
 
 ###
 
@@ -26,6 +26,14 @@
 
   <a href="https://www.linkedin.com/in/mahanthesh-s-2604b42a2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+   <a href="https://mahi2708.github.io/Mahantesh-portfolio/" target="_blank">
+   <img 
+    src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" 
+    height="35" 
+    alt="Portfolio badge" 
+  />
+
   </a>
 </div>
 
