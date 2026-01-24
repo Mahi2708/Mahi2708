@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Mahanthesh S</h1>
-<h3 align="center">Web Developer | Cybersecurity Enthusiast | Generative AI Enthusiast</h3>
+<h3 align="center">Web Developer | Software Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
   Passionate about building scalable applications, exploring cybersecurity, and solving real-world problems with clean and efficient code.
