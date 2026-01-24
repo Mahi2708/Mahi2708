@@ -102,10 +102,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Mahi2708&show_icons=true&theme=tokyonight" height="165" />
  
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi2708&theme=tokyonight" height="165" />
-</p>
+
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi2708&layout=compact&theme=tokyonight" height="165" />
