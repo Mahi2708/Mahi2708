@@ -99,14 +99,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahi2708&show_icons=true&theme=tokyonight" height="165" />
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi2708&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+</p>
 
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi2708&layout=compact&theme=tokyonight" height="165" />
 </p>
+
 ---
 
 ⭐ *Thanks for visiting my profile! Explore my repositories to see what I'm working on.*
