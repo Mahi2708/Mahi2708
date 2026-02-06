@@ -18,7 +18,8 @@
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,gcp,figma,vscode,powerbi" />
+<img src="https://skillicons.dev/icons?i=git,gcp,figma,vscode,powerbi,render,vercel,postgres" />
+
 </p>
 
 ### 🌐 Technical Skills
