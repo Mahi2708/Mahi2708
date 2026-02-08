@@ -18,7 +18,7 @@
 
 ### 🛠️ Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,gcp,figma,vscode,powerbi,render,vercel,postgres" />
+<img src="https://skillicons.dev/icons?i=git,gcp,figma,vscode,vercel,postgres" />
 
 </p>
 
